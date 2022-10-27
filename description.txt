@@ -1,0 +1,18 @@
+Description
+I want to create a script that will help me to study new english words.
+Create_folder - ask me the name of the folder and create the folder with this name.
+Translate script - open some folder and check all inner folders and files in it> then create the list with names of each file.
+I am going to create some script that will include the both scripts.
+
+I will be create a list with the unknown words.
+IT will be
+	1 .open that list and take the first value
+	2. create the folder called as a word
+	2. open openphrase website enter this word and download a single video.
+	4. open common folder with all this files and create a list with names of these files.
+	3. when it will be done, create a dict with keys and values and create an exel file with this dictionary.
+		keys- the english phrases(list that i created in the past)
+		values - translation of each phrase
+
+Now i have only script that created the folders. I download videos by myself. Also a iave a  script that create a dict with keys and values and create an exel file with this dictionary.
+i will write this script later. Definately!
